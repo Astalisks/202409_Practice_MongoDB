@@ -1,3 +1,3 @@
 # 202409_Practice_MongoDB
 
-コンテナ上でPostgreSQLをうごかす
+コンテナ上でMongoDBをうごかす
